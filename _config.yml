@@ -17,8 +17,8 @@ title: Demo Jekyll Project
 email: sagar13912@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a dummy project websit built upon jeklly theme
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/demojekyll" # the subpath of your site, e.g. /blog
+url: "http://sagarb3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sagar13912
 github_username:  sagarb3.github.io
 
